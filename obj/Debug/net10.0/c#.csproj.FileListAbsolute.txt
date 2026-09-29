@@ -1,0 +1,14 @@
+/Users/juanj/Desktop/c#/bin/Debug/net10.0/c#
+/Users/juanj/Desktop/c#/bin/Debug/net10.0/c#.deps.json
+/Users/juanj/Desktop/c#/bin/Debug/net10.0/c#.runtimeconfig.json
+/Users/juanj/Desktop/c#/bin/Debug/net10.0/c#.dll
+/Users/juanj/Desktop/c#/bin/Debug/net10.0/c#.pdb
+/Users/juanj/Desktop/c#/obj/Debug/net10.0/c#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juanj/Desktop/c#/obj/Debug/net10.0/c#.AssemblyInfoInputs.cache
+/Users/juanj/Desktop/c#/obj/Debug/net10.0/c#.AssemblyInfo.cs
+/Users/juanj/Desktop/c#/obj/Debug/net10.0/c#.csproj.CoreCompileInputs.cache
+/Users/juanj/Desktop/c#/obj/Debug/net10.0/c#.dll
+/Users/juanj/Desktop/c#/obj/Debug/net10.0/refint/c#.dll
+/Users/juanj/Desktop/c#/obj/Debug/net10.0/c#.pdb
+/Users/juanj/Desktop/c#/obj/Debug/net10.0/c#.genruntimeconfig.cache
+/Users/juanj/Desktop/c#/obj/Debug/net10.0/ref/c#.dll
